@@ -1,3 +1,5 @@
 # VendingMachine
 My first capstone project for Tech Elevator's bootcamp!  Pair project with Molly Fronius.
-![VendingMachineImage](https://raw.github.com/{Kevin-L-Ye}/{VendingMachine}/{master}/{T_16-01.jpg})
+
+A C# console application created in Visual Studio, which simulates a vending machine with limited stock and prices for each product.
+Users can enter a product selection, and money in $1, $2, and $5 increments, per the original project requirements.
